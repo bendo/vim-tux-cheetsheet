@@ -22,3 +22,17 @@ Ctrl + w - binding
 * yy - yank (copy) a line
 * dd - delete (cut) a line
 * D - delete (cut) to the end of the line
+
+
+## TMUX
+
+Ctrl + b - key binding
+
+### Plane split
+Ctrl+b " - split pane horizontally.
+Ctrl+b % - split pane vertically.
+Ctrl+b arrow key - switch pane.
+Hold Ctrl+b, don't release it and hold one of the arrow keys - resize pane.
+Ctrl+b c - (c)reate a new window.
+Ctrl+b n - move to the (n)ext window.
+Ctrl+b p - move to the (p)revious window.
