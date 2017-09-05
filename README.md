@@ -11,7 +11,14 @@ Ctrl + w - binding
 * 5G - go to line 5
 
 
-### FILES
+### Files
 * :bn - go to the next buffer
 * :bp - go to the previous buffer
 
+### Editing
+* u - undo
+* Ctrl + r - redo
+* . - repeat last command
+* yy - yank (copy) a line
+* dd - delete (cut) a line
+* D - delete (cut) to the end of the line
