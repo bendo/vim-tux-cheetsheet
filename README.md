@@ -30,6 +30,8 @@ Ctrl + w - binding
 ## TMUX
 
 Ctrl + b - key binding
+tmux kill-server - kill all server
+
 
 ### Plane split
 * Ctrl+b " - split pane horizontally.
