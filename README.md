@@ -22,6 +22,7 @@ Ctrl + w - binding
 * yy - yank (copy) a line
 * dd - delete (cut) a line
 * D - delete (cut) to the end of the line
+* 1,10 y -- copy from , to line number 
 
 ### NERD tree
 * Binding. - : NERDtree
