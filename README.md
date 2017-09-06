@@ -23,6 +23,9 @@ Ctrl + w - binding
 * dd - delete (cut) a line
 * D - delete (cut) to the end of the line
 
+### NERD tree
+* Binding. - : NERDtree
+* add file - m + a and file name
 
 ## TMUX
 
