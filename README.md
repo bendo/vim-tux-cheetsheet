@@ -28,6 +28,9 @@ Ctrl + w - binding
 * Binding. - : NERDtree
 * add file - m + a and file name
 
+### Remove delay in switch between Normal and edit mode
+set timeoutlen=1000 ttimeoutlen=0
+
 ## TMUX
 
 Ctrl + b - key binding
