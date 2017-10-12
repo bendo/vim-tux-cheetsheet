@@ -45,3 +45,7 @@ tmux kill-server - kill all server
 * Ctrl+b c - (c)reate a new window.
 * Ctrl+b n - move to the (n)ext window.
 * Ctrl+b p - move to the (p)revious window.
+
+### Save /restore session
+* Ctrl+b + Ctrl+s - Save session
+* Ctrl+b + Ctrl+r - Restore session
