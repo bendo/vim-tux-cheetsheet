@@ -20,7 +20,9 @@ Ctrl + w - binding
 * Ctrl + r - redo
 * . - repeat last command
 * yy - yank (copy) a line
+* cc - correct a line by clearing and then entering insert mode
 * dd - delete (cut) a line
+* C - correct to the end of the line
 * D - delete (cut) to the end of the line
 * 1,10 y -- copy from , to line number 
 
